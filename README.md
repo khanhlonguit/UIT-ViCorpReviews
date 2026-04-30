@@ -1,22 +1,6 @@
-<p align="center">
-  <img src="common/img/AIVN.png" alt="AIVN" height="80"/>
-  &nbsp;&nbsp;&nbsp;
-  <img src="common/img/VLAI.png" alt="VLAI" height="80"/>
-</p>
+<div>
 
-<h1 align="center">Difficulty-Aware Adaptive Reasoning for Vietnamese VQA with GPT-OSS</h1>
-
-<p align="center">
-  <a href="https://github.com/Koii2k3/GPT-OSS-VQA/blob/main/LICENSE">
-    <img src="https://img.shields.io/badge/License-MIT-green.svg" alt="License">
-  </a>
-  <a href="">
-    <img src="https://img.shields.io/badge/Paper-arXiv-red" alt="Paper">
-  </a>
-  <a href="">
-    <img src="https://img.shields.io/badge/Project-Page-blue" alt="Project Page">
-  </a>
-</p>
+<h1 align="center">UIT-ViCorpReviews: A Benchmark Dataset for Multi-Dimensional Sentiment and Toxic Span Detection in Vietnamese Workplace Context</h1>
 
 </div>
 
