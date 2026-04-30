@@ -54,7 +54,7 @@ If you use our dataset or findings in our research, please consider citing our p
   year      = {2026},
   publisher = {},
   journal   = {},
-  howpublished = {\url{https://anonymous.4open.science/r/UIT-ViCorpReviews/}},
+  howpublished = {\url{https://anonymous.4open.science/r/UIT_ViCorpReviews/}},
 }
 ```
 
