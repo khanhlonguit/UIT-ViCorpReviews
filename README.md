@@ -45,7 +45,7 @@ This dataset serves as a foundational benchmark to foster future research in pat
 
 ## Citation
 
-If you use this framework or our findings in your research, please consider citing our paper.
+If you use our dataset or findings in our research, please consider citing our paper.
 
 ```bibtex
 @misc{long2026uitvicorpreviews,
