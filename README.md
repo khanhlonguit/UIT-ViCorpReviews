@@ -6,7 +6,7 @@
   <img src="https://www.yuntech.edu.tw/images/mainmenu/about/yuntech_logo.jpg" alt="YunTech" height="80"/>
 </p>
 
-<h1 align="center">UIT-ViCorpReviews: A Benchmark Dataset for Multi-Dimensional Sentiment and Toxic Span Detection in Vietnamese Workplace Context</h1>
+<h1 align="center">UIT-ViCorpReviews: A Benchmark Dataset for Multi-Dimensional Sentiment and Toxic Sequence-level Detection in Vietnamese Workplace Context</h1>
 
 </div>
 
@@ -50,7 +50,7 @@ If you use this framework or our findings in your research, please consider citi
 ```bibtex
 @misc{long2026uitvicorpreviews,
   author    = {Khanh-Long Ho-Vuong, Nhat-Huy Dang, Bao Do, Huy To Quoc},
-  title     = {UIT-ViCorpReviews: A Benchmark Dataset for Multi-Dimensional Sentiment and Toxic Span Detection in Vietnamese Workplace Context},
+  title     = {UIT-ViCorpReviews: A Benchmark Dataset for Multi-Dimensional Sentiment and Toxic Sequence-level Detection in Vietnamese Workplace Context},
   year      = {2026},
   publisher = {},
   journal   = {},
