@@ -30,7 +30,7 @@ This dataset serves as a foundational benchmark to foster future research in pat
 │   ├── train.csv            # Training set for ABSA task
 │   ├── val.csv              # Validation set for ABSA task
 │   └── test.csv             # Test set for ABSA task
-└── data-hsd/                # Toxic Span Detection (TSD) Split
+└── data-tsd/                # Toxic Sequence-level Detection (TSD) Split
     ├── train.csv            # Training set for TSD task
     ├── dev.csv              # Validation set for TSD task
     └── test.csv             # Evaluation set for TSD task
