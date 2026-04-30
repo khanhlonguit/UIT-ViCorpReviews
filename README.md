@@ -27,13 +27,20 @@ This dataset serves as a foundational benchmark to foster future research in pat
 ├── data/
 │   └── data_cleaned.csv     # Data after text normalization & noise removal
 ├── data-absa/               # Aspect-Based Sentiment Analysis (ABSA) Split
-│   ├── train.csv            # Training set for ABSA task
-│   ├── val.csv              # Validation set for ABSA task
-│   └── test.csv             # Test set for ABSA task
-└── data-tsd/                # Toxic Sequence-level Detection (TSD) Split
-    ├── train.csv            # Training set for TSD task
-    ├── dev.csv              # Validation set for TSD task
-    └── test.csv             # Evaluation set for TSD task
+│   ├── data.csv             # Full dataset for ABSA task
+│   └── file_split/
+│       ├── aspects.json     # Aspect categories metadata
+│       ├── aspect_cols.json # Aspect column mappings
+│       ├── label2id.json    # Label to ID mappings
+│       ├── train.csv        # Training set for ABSA task
+│       ├── val.csv          # Validation set for ABSA task
+│       └── test.csv         # Test set for ABSA task
+└── data-tsd/                # Toxic Span Detection (TSD) Split
+    ├── data.csv             # Full dataset for TSD task
+    └── file_split/
+        ├── train.csv        # Training set for TSD task
+        ├── dev.csv          # Validation set for TSD task
+        └── test.csv         # Evaluation set for TSD task
 ```
 
 ## Citation
