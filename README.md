@@ -11,7 +11,7 @@
 </div>
 
 <p align="center">
-  <img src="https://i.postimg.cc/RVHxD50N/our-pipeline.png" alt="UIT" height="40%"/>
+  <img src="https://i.postimg.cc/G3Dh1BLX/our-pipeline.png" alt="UIT" height="40%"/>
 </p>
 
 This repository contains the official implementation for **UIT-ViCorpReviews** - a novel benchmark dataset curated and annotated for two tasks: Aspect-based Sentiment Analysis (ABSA) and Toxic Span Detection (TSD).
@@ -35,7 +35,7 @@ This dataset serves as a foundational benchmark to foster future research in pat
 │       ├── train.csv        # Training set for ABSA task
 │       ├── val.csv          # Validation set for ABSA task
 │       └── test.csv         # Test set for ABSA task
-└── data-tsd/                # Toxic Span Detection (TSD) Split
+└── data-tsd/                # Toxic Sequence-level Detection Split
     ├── data.csv             # Full dataset for TSD task
     └── file_split/
         ├── train.csv        # Training set for TSD task
