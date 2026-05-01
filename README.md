@@ -14,7 +14,7 @@
   <img src="https://i.postimg.cc/G3Dh1BLX/our-pipeline.png" alt="UIT" height="40%"/>
 </p>
 
-This repository contains the official implementation for **UIT-ViCorpReviews** - a novel benchmark dataset curated and annotated for two tasks: Aspect-based Sentiment Analysis (ABSA) and Hate Speech Detection (HSD).
+This repository contains the official implementation for **UIT-ViCorpReviews** - a novel benchmark dataset curated and annotated for two tasks: Aspect-based Sentiment Analysis (ABSA) and Hate Speech Detection (TSD).
 
 This dataset serves as a foundational benchmark to foster future research in pattern recognition and natural language understanding within the corporate domain.
 
@@ -35,12 +35,12 @@ This dataset serves as a foundational benchmark to foster future research in pat
 │       ├── train.csv        # Training set for ABSA task
 │       ├── val.csv          # Validation set for ABSA task
 │       └── test.csv         # Test set for ABSA task
-└── data-hsd/                # Hate Speech Detection (HSD) Split
-    ├── data.csv             # Full dataset for HSD task
+└── data-TSD/                # Hate Speech Detection (TSD) Split
+    ├── data.csv             # Full dataset for TSD task
     └── file_split/
-        ├── train.csv        # Training set for HSD task
-        ├── dev.csv          # Validation set for HSD task
-        └── test.csv         # Evaluation set for HSD task
+        ├── train.csv        # Training set for TSD task
+        ├── dev.csv          # Validation set for TSD task
+        └── test.csv         # Evaluation set for TSD task
 ```
 
 ## Citation
