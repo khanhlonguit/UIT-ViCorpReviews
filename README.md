@@ -6,7 +6,7 @@
   <img src="https://www.yuntech.edu.tw/images/mainmenu/about/yuntech_logo.jpg" alt="YunTech" height="80"/>
 </p>
 
-<h1 align="center">UIT-ViCorpReviews: A Benchmark Dataset for Multi-Dimensional Sentiment and Toxic Detection in Vietnamese Workplace Context</h1>
+<h1 align="center">UIT-ViCorpReviews: A Benchmark Dataset for Multi-Dimensional Sentiment and Hate Speech Detection in Vietnamese Workplace Context</h1>
 
 </div>
 
@@ -14,7 +14,7 @@
   <img src="https://i.postimg.cc/G3Dh1BLX/our-pipeline.png" alt="UIT" height="40%"/>
 </p>
 
-This repository contains the official implementation for **UIT-ViCorpReviews** - a novel benchmark dataset curated and annotated for two tasks: Aspect-based Sentiment Analysis (ABSA) and Toxic Sequence-level Detection (TSD).
+This repository contains the official implementation for **UIT-ViCorpReviews** - a novel benchmark dataset curated and annotated for two tasks: Aspect-based Sentiment Analysis (ABSA) and Hate Speech Detection (HSD).
 
 This dataset serves as a foundational benchmark to foster future research in pattern recognition and natural language understanding within the corporate domain.
 
@@ -35,12 +35,12 @@ This dataset serves as a foundational benchmark to foster future research in pat
 │       ├── train.csv        # Training set for ABSA task
 │       ├── val.csv          # Validation set for ABSA task
 │       └── test.csv         # Test set for ABSA task
-└── data-tsd/                # Toxic Sequence-level Detection (TSD) Split
-    ├── data.csv             # Full dataset for TSD task
+└── data-hsd/                # Hate Speech Detection (HSD) Split
+    ├── data.csv             # Full dataset for HSD task
     └── file_split/
-        ├── train.csv        # Training set for TSD task
-        ├── dev.csv          # Validation set for TSD task
-        └── test.csv         # Evaluation set for TSD task
+        ├── train.csv        # Training set for HSD task
+        ├── dev.csv          # Validation set for HSD task
+        └── test.csv         # Evaluation set for HSD task
 ```
 
 ## Citation
@@ -50,7 +50,7 @@ If you use our dataset or findings in our research, please consider citing our p
 ```bibtex
 @misc{long2026uitvicorpreviews,
   author    = {Khanh-Long Ho-Vuong, Nhat-Huy Dang, Bao Do, Huy To Quoc},
-  title     = {UIT-ViCorpReviews: A Benchmark Dataset for Multi-Dimensional Sentiment and Toxic Detection in Vietnamese Workplace Context},
+  title     = {UIT-ViCorpReviews: A Benchmark Dataset for Multi-Dimensional Sentiment and Hate Speech Detection in Vietnamese Workplace Context},
   year      = {2026},
   publisher = {},
   journal   = {},
