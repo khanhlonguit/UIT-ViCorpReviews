@@ -1,12 +1,12 @@
 <div>
 
 <p align="center">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/3/38/Logo_UIT_updated.jpg" alt="UIT" height="80"/>
+  <img src="https://ibb.co/RGrrx2Fh" alt="ViCorpReviews" height="80"/>
   &nbsp;&nbsp;&nbsp;
   <img src="https://www.yuntech.edu.tw/images/mainmenu/about/yuntech_logo.jpg" alt="YunTech" height="80"/>
 </p>
 
-<h1 align="center">UIT-ViCorpReviews: A Benchmark Dataset for Multi-Dimensional Sentiment and Hate Speech Detection in Vietnamese Workplace Context</h1>
+<h1 align="center">ViCorpReviews: A Benchmark Dataset for Multi-Dimensional Sentiment and Hate Speech Detection in Vietnamese Workplace Context</h1>
 
 </div>
 
@@ -14,9 +14,9 @@
   <img src="https://i.postimg.cc/G3Dh1BLX/our-pipeline.png" alt="UIT" height="40%"/>
 </p>
 
-This repository contains the official implementation for **UIT-ViCorpReviews** - a novel benchmark dataset curated and annotated for two tasks: Aspect-based Sentiment Analysis (ABSA) and Hate Speech Detection (HSD).
+This repository contains the official implementation for **ViCorpReviews** - a novel benchmark dataset curated and annotated for two tasks: Aspect-based Sentiment Analysis (ABSA) and Hate Speech Detection (HSD).
 
-This dataset serves as a foundational benchmark to foster future research in pattern recognition and natural language understanding within the corporate domain.
+This dataset serves as a foundational benchmark to foster future research in pattern recognition and natural language understanding within the corporate domain in Vietnam.
 
 
 ## Structure
@@ -48,13 +48,13 @@ This dataset serves as a foundational benchmark to foster future research in pat
 If you use our dataset or findings in our research, please consider citing our paper.
 
 ```bibtex
-@misc{long2026uitvicorpreviews,
+@misc{long2026vicorpreviews,
   author    = {Khanh-Long Ho-Vuong, Nhat-Huy Dang, Bao Do, Huy To Quoc},
-  title     = {UIT-ViCorpReviews: A Benchmark Dataset for Multi-Dimensional Sentiment and Hate Speech Detection in Vietnamese Workplace Context},
+  title     = {ViCorpReviews: A Benchmark Dataset for Multi-Dimensional Sentiment and Hate Speech Detection in Vietnamese Workplace Context},
   year      = {2026},
   publisher = {},
   journal   = {},
-  howpublished = {\url{https://anonymous.4open.science/r/UIT_ViCorpReviews/}},
+  howpublished = {\url{https://anonymous.4open.science/r/ViCorpReviews/}},
 }
 ```
 
