@@ -1,9 +1,8 @@
 <div>
 
 <p align="center">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/3/38/Logo_UIT_updated.jpg" alt="UIT" height="80"/>
+  <img src="https://mapr.uit.edu.vn/sites/default/files/banner_2026_0_0.png" alt="MAPR" height="80"/>
   &nbsp;&nbsp;&nbsp;
-  <img src="https://www.yuntech.edu.tw/images/mainmenu/about/yuntech_logo.jpg" alt="YunTech" height="80"/>
 </p>
 
 <h1 align="center">ViCorpReviews: A Benchmark Dataset for Multi-Dimensional Sentiment and Hate Speech Detection in Vietnamese Workplace Context</h1>
