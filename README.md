@@ -42,18 +42,3 @@ This dataset serves as a foundational benchmark to foster future research in pat
         └── test.csv         # Evaluation set for HSD task
 ```
 
-## Citation
-
-If you use our dataset or findings in our research, please consider citing our paper.
-
-```bibtex
-@misc{long2026vicorpreviews,
-  author    = {Khanh-Long Ho-Vuong, Nhat-Huy Dang, Bao Do, Huy To Quoc},
-  title     = {ViCorpReviews: A Benchmark Dataset for Multi-Dimensional Sentiment and Hate Speech Detection in Vietnamese Workplace Context},
-  year      = {2026},
-  publisher = {},
-  journal   = {},
-  howpublished = {\url{https://anonymous.4open.science/r/ViCorpReviews_/}},
-}
-```
-
