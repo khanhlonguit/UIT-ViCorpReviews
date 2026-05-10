@@ -1,7 +1,7 @@
 <div>
 
 <p align="center">
-  <img src="https://ibb.co/RGrrx2Fh" alt="ViCorpReviews" height="80"/>
+  <img src="https://vi.wikipedia.org/wiki/T%E1%BA%ADp_tin:Logo_UIT_updated.jpg" alt="UIT" height="80"/>
   &nbsp;&nbsp;&nbsp;
   <img src="https://www.yuntech.edu.tw/images/mainmenu/about/yuntech_logo.jpg" alt="YunTech" height="80"/>
 </p>
@@ -11,7 +11,7 @@
 </div>
 
 <p align="center">
-  <img src="https://i.postimg.cc/G3Dh1BLX/our-pipeline.png" alt="UIT" height="40%"/>
+  <img src="https://ibb.co/RGrrx2Fh" alt="ViCorpReviews" height="40%"/>
 </p>
 
 This repository contains the official implementation for **ViCorpReviews** - a novel benchmark dataset curated and annotated for two tasks: Aspect-based Sentiment Analysis (ABSA) and Hate Speech Detection (HSD).
