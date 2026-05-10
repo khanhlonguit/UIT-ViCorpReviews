@@ -1,7 +1,7 @@
 <div>
 
 <p align="center">
-  <img src="https://vi.wikipedia.org/wiki/T%E1%BA%ADp_tin:Logo_UIT_updated.jpg" alt="UIT" height="80"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/3/38/Logo_UIT_updated.jpg" alt="UIT" height="80"/>
   &nbsp;&nbsp;&nbsp;
   <img src="https://www.yuntech.edu.tw/images/mainmenu/about/yuntech_logo.jpg" alt="YunTech" height="80"/>
 </p>
