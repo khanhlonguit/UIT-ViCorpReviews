@@ -11,7 +11,7 @@
 </div>
 
 <p align="center">
-  <img src="https://postimg.cc/qzj69h6k" alt="ViCorpReviews" height="40%"/>
+  <img src="https://i.postimg.cc/52M5Q8xF/our-pipeline-no-UIT.png" alt="ViCorpReviews" height="40%"/>
 </p>
 
 This repository contains the official implementation for **ViCorpReviews** - a novel benchmark dataset curated and annotated for two tasks: Aspect-based Sentiment Analysis (ABSA) and Hate Speech Detection (HSD).
