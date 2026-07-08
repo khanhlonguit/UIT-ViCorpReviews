@@ -32,6 +32,6 @@ The dataset in this repository was collected from [congty.review](https://congty
 
 We do **not claim ownership** of this original content. Our contribution is limited to **labeling/annotating** the data for **academic research purposes**, non-commercially.
 
-If you are a representative of congty.review or the content owner and wish to request removal of this data, please contact us via [email/issue] and we will address it promptly.
+If you are a representative of congty.review or the content owner and wish to request removal of this data, please contact us and we will address it promptly.
 
 Any use of this dataset beyond academic research is the sole responsibility of the user; we assume no liability for any resulting misuse or infringement.
