@@ -25,3 +25,13 @@ You can view the dataset demo examples at the [examples](https://www.24h.com.vn/
 To download the full dataset, you have to sign the [User Agreement form](https://github.com/khanhlonguit/ViCorpReviews/blob/main/ViCorpReviews_User_Agreement_Form.pdf) and send it to the dataset owner (the email of the owner is in the form).
 
 You will receive the full dataset after you sign and send the User Agreement form.
+
+## ⚠️ Disclaimer
+
+The dataset in this repository was collected from [congty.review](https://congty.review). All review content, including the original text, remains the property of congty.review.
+
+We do **not claim ownership** of this original content. Our contribution is limited to **labeling/annotating** the data for **academic research purposes**, non-commercially.
+
+If you are a representative of congty.review or the content owner and wish to request removal of this data, please contact us via [email/issue] and we will address it promptly.
+
+Any use of this dataset beyond academic research is the sole responsibility of the user; we assume no liability for any resulting misuse or infringement.
