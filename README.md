@@ -22,6 +22,6 @@ This dataset serves as a foundational benchmark to foster future research in pat
 You can view the dataset demo examples at the [examples](https://www.24h.com.vn/) folder. The folder contains examples of Aspect-based Sentiment Analysis (ABSA) task and Hate Speech Detection (HSD) task.
 
 ## How to get the dataset
-To download the full dataset, you have to sign the User Agreement form and send it to the dataset owner (the email of the owner is in the form).
+To download the full dataset, you have to sign the [User Agreement form](https://github.com/khanhlonguit/ViCorpReviews/blob/main/ViCorpReviews_User_Agreement_Form.pdf) and send it to the dataset owner (the email of the owner is in the form).
 
-You will receive instructions to download the full dataset after you sign and send the User Agreement form.
+You will receive the full dataset after you sign and send the User Agreement form.
