@@ -18,27 +18,10 @@ This repository contains the official implementation for **ViCorpReviews** - a n
 This dataset serves as a foundational benchmark to foster future research in pattern recognition and natural language understanding within the corporate domain in Vietnam.
 
 
-## Structure
+## Dataset Demo Examples
+You can view the dataset demo examples at the [examples](https://www.24h.com.vn/) folder. The folder contains examples of Aspect-based Sentiment Analysis (ABSA) task and Hate Speech Detection (HSD) task.
 
-```text
-├── data-raw/
-│   └── data_raw.csv         # Original, unprocessed crawled data
-├── data/
-│   └── data_cleaned.csv     # Data after text normalization & noise removal
-├── data-absa/               # Aspect-Based Sentiment Analysis (ABSA) Split
-│   ├── data.csv             # Full dataset for ABSA task
-│   └── file_split/
-│       ├── aspects.json     # Aspect categories metadata
-│       ├── aspect_cols.json # Aspect column mappings
-│       ├── label2id.json    # Label to ID mappings
-│       ├── train.csv        # Training set for ABSA task
-│       ├── val.csv          # Validation set for ABSA task
-│       └── test.csv         # Test set for ABSA task
-└── data-HSD/                # Hate Speech Detection (HSD) Split
-    ├── data.csv             # Full dataset for HSD task
-    └── file_split/
-        ├── train.csv        # Training set for HSD task
-        ├── dev.csv          # Validation set for HSD task
-        └── test.csv         # Evaluation set for HSD task
-```
+## How to get the dataset
+To download the full dataset, you have to sign the User Agreement form and send it to the dataset owner (the email of the owner is in the form).
 
+You will receive instructions to download the full dataset after you sign and send the User Agreement form.
